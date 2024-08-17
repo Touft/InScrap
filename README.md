@@ -10,7 +10,13 @@ This project is an Instagram Video Scraper Bot that automates the process of dow
 - **Progress Display:** Uses `rich` to show progress bars and console output.
 - **Daily Scheduling:** Automatically runs the bot daily at a scheduled time using `schedule`. (BROKEN ATM :/)
 
-##DISCLAMER
+## Installation
+
+### Prerequisites
+
+- Python 3.6 or later
+
+DISCLAMER
 Important Notice:
 
 While this bot is designed to automate the process of downloading videos from Instagram, there are risks associated with using it, especially when running it continuously for long periods.
@@ -25,12 +31,6 @@ Use at Your Own Risk:
 This tool is provided for educational purposes, and we cannot guarantee the safety of your Instagram account.
 To minimize the risk, avoid running the bot continuously for long periods and use it responsibly.
 By using this bot, you acknowledge and accept these risks.
-
-## Installation
-
-### Prerequisites
-
-- Python 3.6 or later
 
 ### Clone the Repository
 
